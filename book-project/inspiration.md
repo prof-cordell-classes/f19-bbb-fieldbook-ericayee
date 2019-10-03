@@ -17,3 +17,9 @@ An embeddable platform for creating and sharing random text generators
 
 ### [12 Super Creative QR Code Designs](https://chinachannel.co/creative-qr-code-designs/)
 ![cool qr code gif](./images/cool_qrcode.gif)
+
+### [Choose Your Own Adventure Zine (Etsy)](https://www.etsy.com/listing/604358063/choose-your-own-adventure-zine-a6)
+![choose your own adventure zine on etsy](./images/etsyzine.jpg)
+
+### [Choose Your Own Adventure Zine Writing Workshop](https://www.academia.edu/3625600/Choose_Your_Own_Adventure_Zine_Writing_Workshop)
+Helpful tips and examples for writing CYOA stories.
