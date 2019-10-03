@@ -2,7 +2,7 @@
 
 #### Erica Yee
 
-## TKTK
+## Types of fonts and books
 
 I enjoyed the class exercise in which every student wrote one of their reading prep questions on the board as the basis for discussion. One topic I don't think we discussed in class but that had a few questions was Ellen Lupton's labeling of "type crimes" in her book _Thinking With Type_. One classmate asked:
 
