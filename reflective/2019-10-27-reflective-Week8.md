@@ -1,0 +1,13 @@
+# Reflective: E-lit 1
+
+#### Erica Yee
+
+## Entwined
+
+In my reading prep for E-lit 1, I raved about the experience of "What Football Will Look Like in the Future" and how it worked well on my laptop. As someone who has a little experience in web development, I know this is no easy feat, especially for something as experimental and mold-breaking as this. However, after our class discussion on the piece, I somewhat take back what I said about how well it was developed. Some of my classmates talked about not being able to read small text on their phones and without reliable internet connection (though I don't fault SB Nation for the latter, of course). People also mentioned that the YouTube suggested videos at the end of each embedded video were distracting and potentially spoilers for the story, as well as annoyance from seeing continually looping gifs at the edge of the screen. It is possible to fix all of these mentioned problems to an extent, from improving the mobile experience to replacing gifs with lazy loaded videos. But that process would still be like playing whack-a-mole. Like any other platform, from codices to audiobooks, an online multimedia narrative is not the ideal for all potential users. This discussion reminded me once again that I need to think more about accessibility in my web development work.
+
+I really enjoyed fiddling around with Twine this week. Before trying anything on my own, I decided to play some of the published games. One, called [Parable](https://luke-woods.itch.io/parable), is a storybook-styled choose-your-own-adventure game with six possible endings, "more than Mass Effect 3" as the creator wrote in the description. The first thing that struck me about Parable was how fitting the art is. The game is a "book" seemingly lying on a table that you progress through by clicking text. Basically every page of the book has an associated illustration that contributes to the playful fantasy vibe.
+
+![Twine parable fight](/images/twine_parable_fight.png)
+
+Parable gave me lots of ideas for my own book project. Though I am not planning on doing anything as elaborate, I am playing with different representations of the traditional physical book. Even in online 2D space, the Parable art somehow "feels" like a storybook. This inspires me to think about the experience and vibe I want to a reader of my book to have. Originally, I thought I would have a simple zine as the physical aspect of my book project so I could easily distribute it to friends and family. Now I'm leaning more towards a single, more complicated scrapbook-esque product. That "genre," book-wise, enables a very different experience for the reader, and I think that's worth putting the time and effort into.
