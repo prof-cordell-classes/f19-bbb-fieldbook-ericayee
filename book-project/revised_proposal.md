@@ -7,6 +7,8 @@ My desired experience for a reader of my book project has somewhat changed from 
 
 My main question throughout this ideation process was, what can the paper book contain that can't be done digitally, or at least works better in analog form? Professor Cordell helped me brainstorm that the physical book aspect could contain paper "artifacts" encountered in the story playing out digitally. This idea, coupled with learning about Twine, led me to flip my initial format ratio: The main story progression (and thus most of a reader's time) will be digitally through Twine, with some necessary flipping through a physical "scrapbook" to find keys to continuing the story.
 
+The current Twine project can be found [here](https://ericayee.com/bbb_project/). The story starts there.
+
 ### Content
 My book will still be a choose-your-own-adventure (CYOA) fiction story, though there may only be two or so endings depending on how elaborate the plot gets. The story, told in second-person POV, opens with a Northeastern student waking up alone in the dark in Snell Library. Strange things start happening around campus and the student tries to discover what's going on.
 
